@@ -8,3 +8,4 @@
 - [tui-md-editor](https://github.com/jarmen423/tui-md-editor) - fork of Frogmouth - terminal based markdown viewer and editor
 - [web-capture-extension](https://catpure.agentmemorylabs.com) - Free to use Chrome extension to help you capture any webpages, information, or documentation as clean markdown / screenshots -> single pdf: Great for feeding knowledge into your agents / LLMs!
 - [codex android/iphone app](https://github.com/jarmen423/codex-mobile-app) - connect to your coding agents from your phone, seamlessly continue the same conversation threads you were using on your pc and/or create new ones.
+- [VoiceClone TTS](https://github.com/jarmen423/twitch-tts) - Extension for Twitch Streamers. Allows viewers to use bits to create ai voice clones and use them to sent text to speech messages to the stream that all viewers can hear.
