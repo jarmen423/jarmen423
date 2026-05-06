@@ -7,4 +7,4 @@
 - 3d-render-radiology - input MRI/CT scan output 3D model of that specific patient's scan - built on TotalSegmentator
 - [tui-md-editor](https://github.com/jarmen423/tui-md-editor) - fork of Frogmouth - terminal based markdown viewer and editor
 - [web-capture-extension](https://catpure.agentmemorylabs.com) - Free to use Chrome extension to help you capture any webpages, information, or documentation as clean markdown / screenshots -> single pdf: Great for feeding knowledge into your agents / LLMs!
-- [codex android/iphone app](https://github.com/jarmen423/android-plugin)
+- [codex android/iphone app](https://github.com/jarmen423/codex-mobile-app) - connect to your coding agents from your phone, seamlessly continue the same conversation threads you were using on your pc and/or create new ones.
