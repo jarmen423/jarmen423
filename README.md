@@ -1,12 +1,28 @@
+# Joshua Friedman
+
+Applied AI builder focused on workflow automation, agent memory, multimodal systems, and practical AI products.
+
+I keep a deliberate build-and-study loop around the fast-moving AI stack: coding agents, MCP/tool use, retrieval and memory, evals, browser automation, multimodal models, and deployment patterns. The goal is not to chase every new tool. The goal is to test what is useful, understand the constraints, and turn it into working systems.
+
+Portfolio: [joshfriedman-dev.com](https://joshfriedman-dev.com)
+
 ## Current Projects
-- [mutdashboard.com](https://mutdashboard.com) - unofficial Madden Ultimate Team auction house companion 
-- [agentmemorylabs.com](https://agentmemorylabs.com) - unified Multi-modal scale to zero graph-backed time aware memory layer for all your ai agents. supports image, audio, and video memory.
-- [voice-computer-use-agent](https://github.com/jarmen423/voice-computer-use-agent) - turns any ai agent into a local computer use agent optionally fully controlled by your voice input
-- [Dictate](https://dictate.agentmemorylabs.com) - free to use speech to text tool with translation, translation, customizable formatting.
-- radiology-ai-video - input patient MRI report -> output avatar video that explains the report in patient friendly manner
-- 3d-render-radiology - input MRI/CT scan output 3D model of that specific patient's scan - built on TotalSegmentator
-- [tui-md-editor](https://github.com/jarmen423/tui-md-editor) - fork of Frogmouth - terminal based markdown viewer and editor
-- [web-capture-extension](https://catpure.agentmemorylabs.com) - Free to use Chrome extension to help you capture any webpages, information, or documentation as clean markdown / screenshots -> single pdf: Great for feeding knowledge into your agents / LLMs!
-- [codex android/iphone app](https://github.com/jarmen423/codex-mobile-app) - connect to your coding agents from your phone, seamlessly continue the same conversation threads you were using on your pc and/or create new ones.
-- [VoiceClone TTS](https://github.com/jarmen423/twitch-tts) - Extension for Twitch Streamers. Allows viewers to use bits to create ai voice clones and use them to sent text to speech messages to the stream that all viewers can hear.
-- [Evolution-engine](https://github.com/jarmen423/evolution-engine) - Pipeline that simulates altered evolutionary timelines. Academic research based. Ships with ai-generated content creation pipeline. Uses evolutionary sim data to tell a story and create short educational videos about it.
+
+- [Agent Memory Labs](https://agentmemorylabs.com) - early-production memory infrastructure for AI agents: persistent, searchable context across code, git history, web research, and conversations, exposed through CLI/API/dashboard/MCP surfaces.
+- [mutdashboard.com](https://mutdashboard.com) - unofficial Madden Ultimate Team auction house companion built around reverse-engineered data flows and practical user workflows.
+- [voice-computer-use-agent](https://github.com/jarmen423/voice-computer-use-agent) - local computer-use control for AI agents, optionally driven by voice input.
+- [Dictate](https://dictate.agentmemorylabs.com) - speech-to-text workflow tool with translation and customizable formatting.
+- Radiology AI Video - multimodal workflow that turns patient radiology reports into patient-friendly avatar video explanations with review gating.
+- 3D Render Radiology - MRI/CT scan to patient-specific 3D model workflow built around TotalSegmentator.
+- [web-capture-extension](https://catpure.agentmemorylabs.com) - Chrome extension for capturing webpages, documentation, screenshots, and structured context for downstream AI/LLM use.
+- [codex-mobile-app](https://github.com/jarmen423/codex-mobile-app) - mobile companion for connecting to coding agents and continuing agent conversations from a phone.
+- [VoiceClone TTS](https://github.com/jarmen423/twitch-tts) - Twitch extension concept for paid viewer-triggered AI voice/TTS playback during live streams.
+- [Evolution Engine](https://github.com/jarmen423/evolution-engine) - altered evolutionary timeline simulation plus AI-generated educational video pipeline.
+
+## Focus Areas
+
+- AI agents and tool-use workflows
+- MCP, retrieval, memory, and GraphRAG
+- Browser automation and computer-use agents
+- Multimodal pipelines for text, image, audio, and video
+- Practical product workflows with state, review gates, and delivery
