@@ -16,6 +16,7 @@ Portfolio: [joshfriedman-dev.com](https://joshfriedman-dev.com)
 - 3D Render Radiology - MRI/CT scan to patient-specific 3D model workflow built around TotalSegmentator.
 - [web-capture-extension](https://catpure.agentmemorylabs.com) - Chrome extension for capturing webpages, documentation, screenshots, and structured context for downstream AI/LLM use.
 - [codex-mobile-app](https://github.com/jarmen423/codex-mobile-app) - mobile companion for connecting to coding agents and continuing agent conversations from a phone.
+- [Crap4code](https://github.com/jarmen423/crap4code) - Inspired by [unclebob/crap4java](https://github.com/unclebob/crap4java)
 - [VoiceClone TTS](https://github.com/jarmen423/twitch-tts) - Twitch extension concept for paid viewer-triggered AI voice/TTS playback during live streams.
 - [Evolution Engine](https://github.com/jarmen423/evolution-engine) - altered evolutionary timeline simulation plus AI-generated educational video pipeline.
 
