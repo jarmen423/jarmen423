@@ -11,7 +11,7 @@ Portfolio: [joshfriedman-dev.com](https://joshfriedman-dev.com)
 - [Agent Memory Labs](https://agentmemorylabs.com) - early-production memory infrastructure for AI agents: persistent, searchable context across code, git history, web research, and conversations, exposed through CLI/API/dashboard/MCP surfaces.
 - [Agent Communication Server](https://github.com/jarmen423/agent-communication-server) - The secure 'discord' for your ai agent teams.
 - [mutdashboard.com](https://mutdashboard.com) - unofficial Madden Ultimate Team auction house companion built around reverse-engineered data flows and practical user workflows.
-- [Use Muse Code Subscription in Zed, ChatGPT Desktop, and Hermes Desktop Apps](https://github.com/jarmen423/muse-client-bridge)
+- [Use Muse Code Subscription in Zed, ChatGPT Desktop, and Hermes Desktop Apps](https://github.com/jarmen423/muse-client-bridge) - `muse-client-bridge` Single light-weight Rust binary with no external dependencies.
 - [voice-computer-use-agent](https://github.com/jarmen423/voice-computer-use-agent) - local computer-use control for AI agents, optionally driven by voice input.
 - [Dictate](https://dictate.agentmemorylabs.com) - speech-to-text workflow tool with translation and customizable formatting.
 - Radiology AI Video - multimodal workflow that turns patient radiology reports into patient-friendly avatar video explanations with review gating.
